@@ -1,2 +1,11 @@
 FUNCTIONS/__pycache__
 TOOLS/__pycache__
+
+FUNCTIONS/__pycache__/__init__.cpython-312.pyc
+FUNCTIONS/__pycache__/analysis.cpython-312.pyc
+FUNCTIONS/__pycache__/transformations.cpython-312.pyc
+FUNCTIONS/__pycache__/plots.cpython-312.pyc
+FUNCTIONS/__pycache__/evaluation.cpython-312.pyc
+FUNCTIONS/__pycache__/data_loader.cpython-312.pyc
+FUNCTIONS/__pycache__/benchmarks.cpython-312.pyc
+FUNCTIONS/__pycache__/midas.cpython-312.pyc
